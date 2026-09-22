@@ -1,4 +1,4 @@
-## ⚡ Kshipra (िक्षप्रा)
+## ⚡ Kshipra (िक्षप्र)
 
 Kshipra is a lightweight, modular, CPU-optimized Causal LLM Inference Engine built from scratch in Python and PyTorch.
 
